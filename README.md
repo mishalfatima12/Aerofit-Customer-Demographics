@@ -29,11 +29,27 @@ The correlation matrix represents what impact certain factors have on the select
 
 
 ## Key Insights
-
+- **Customer Demographics**
 - Most of the customer-base of AeroFit prefers KP281 with KP481 having second highest demand leaving KP781 behind.
 - 58% of the buyers are male and 59% of the buyer are partenered.
 - Majority of the clientele 60.4% and 26.7% approx. is in their twenties and thirties respectively.
 - AeroFit customers have 16, 14 and 18 years of education in order of their counts. With 47% having 16 years of education and 30% having 14 years of education. In short most of the clients are highly educated.
 - Annual Income for majority of AeroFit customers ranges from 30,000$ to 70,000$. Hence medium income earners make up 74% of the clientbase.
+
+![AudienceUnderstanding](https://github.com/user-attachments/assets/3f7339db-606d-4249-b557-5bb89ab34eb9)
+
+- **Purchase Trends For AeroFit Products**
+- Purchase trend for KP281 and KP481 is approx. equal amongst both genders. There is equal probability that the buyer of these two products could either be male or female. However, most buyers of KP781 are men.
+
+![download (7)](https://github.com/user-attachments/assets/2dce8a0a-666a-44d4-8d58-368de73c82ad)
+
+- Majority of the buyers for each product are between ages 20-39 years old. However, it is worth noting that 25-30 years old prefer KP781 over KP481 and 30-35 years old prefer KP481 over the other products.
+
+![download (9)](https://github.com/user-attachments/assets/da320f50-c0ae-424d-936b-a29503771c84)
+
+- Customers with high income purchase KP781 whereas most medium income individuals prefer both KP281 and KP481. Amongst the 13% with high income status 100% have purchased KP781.
+
+![download (13)](https://github.com/user-attachments/assets/6a29ab72-2ba2-4ad8-973d-d108f71a82d4)
+
 
 ## Actionable Recommendations
